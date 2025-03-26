@@ -1,3 +1,5 @@
+# Simple bank atm
+# this is atm program using control statements
 a='''
 1.deposit
 2.withdraw
